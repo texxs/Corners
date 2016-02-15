@@ -1,13 +1,24 @@
+<html>
+<head>
+   <title>ReadMe  - Corners - A Box with Corner Images</title>
+</head>
+<body>
+
 <h1>Cornered Image Box</h1>
 <p>A corner image placed in each corner of a box, all done in CSS only.</p>
 
 <h2>Usage</h2>
 <p>Usage is pretty straightforward:</p>
+
 <ul>
-<li>To use simply add the rules from the style.css to your own stylesheet.</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<ul>
+<li>Add the rules from the style.css to your own stylesheet.</li>
+<li>place the image named in a directory named (or change box-holder class to 
+reflect the accurate filename and path of your image).</li>
+<li>Create a div and assign the the css class named <em>inner-content</em> to it.</li>
+<li>With in that div, create another div and give it the class name <em>boxHolder</em></li>
+<li>Feel free to change the width and colors of inner-content class to suit your needs but the
+min-height should be left as is.</li>
+</ul>
+
+</body>
+</html>
