@@ -1,7 +1,7 @@
 # Cornered Image Box
 A corner image placed in each corner of a box, all done in CSS only.
 
-##Usage:
+## Usage:
 Usage is pretty straightforward:
 
 *Add the rules from the style.css to your own stylesheet.
