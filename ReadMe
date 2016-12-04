@@ -4,10 +4,10 @@
 <h2>Usage</h2>
 <p>Usage is pretty straightforward:</p>
 <ul>
-<li>To use simply add the rules from the style.css to your own stylesheet.</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Add the rules from the style.css to your own stylesheet.</li>
+<li>Add the image to your image folder and make the path to this image in your style sheet point to it.</li>
+<li>Create a div with the class"boxHolder" and puut your content in it.</li>
+<li>After that div, create 4 empty divs.  Add the classes "topLeft", "topRight", "bottomLeft" and "bottomRight" respectively to each one (one per div, see the demo).  </li>
+<li>Enjoy!</li>
 <li></li>
 <ul>
