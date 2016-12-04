@@ -1,3 +1,7 @@
+
+<html>
+<head></head>
+<body>
 <h1>Cornered Image Box</h1>
 <p>A corner image placed in each corner of a box, all done in CSS only.</p>
 
@@ -9,5 +13,7 @@
 <li>Create a div with the class"boxHolder" and puut your content in it.</li>
 <li>After that div, create 4 empty divs.  Add the classes "topLeft", "topRight", "bottomLeft" and "bottomRight" respectively to each one (one per div, see the demo).  </li>
 <li>Enjoy!</li>
-<li></li>
-<ul>
+</ul>
+
+</body>
+</html>
